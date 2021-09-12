@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reac-blog/static/css/main.458ad887.chunk.css",
-    "main.js": "/reac-blog/static/js/main.b7119cd7.chunk.js",
-    "main.js.map": "/reac-blog/static/js/main.b7119cd7.chunk.js.map",
+    "main.js": "/reac-blog/static/js/main.fae8e20d.chunk.js",
+    "main.js.map": "/reac-blog/static/js/main.fae8e20d.chunk.js.map",
     "runtime-main.js": "/reac-blog/static/js/runtime-main.07204407.js",
     "runtime-main.js.map": "/reac-blog/static/js/runtime-main.07204407.js.map",
     "static/js/2.106526f5.chunk.js": "/reac-blog/static/js/2.106526f5.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.07204407.js",
     "static/js/2.106526f5.chunk.js",
     "static/css/main.458ad887.chunk.css",
-    "static/js/main.b7119cd7.chunk.js"
+    "static/js/main.fae8e20d.chunk.js"
   ]
 }
